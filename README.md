@@ -1,13 +1,10 @@
-REALTIME MOSAIC PROGRAM
+# REALTIME MOSAIC PROGRAM
 ===
-
 ## 팀원
-
 ### 박주용, 이기웅, 최준서, 최무현
 
 ---
 ## 목차
-
 ---
 ### 0. 개요
 
