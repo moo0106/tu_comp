@@ -1,1 +1,2 @@
-# kpu_comp
+# Realtime mosaic program
+main function.
